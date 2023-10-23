@@ -13,7 +13,9 @@ import java.util.List;
 
 /**
  *
- * @author Clara
+ * @author Clara 
+ * Git Hub  https://github.com/2022475/TeamGenerator
+ * 
  */
 public class TeamGenerator {
 
